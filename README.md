@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ameliahernandez
 - 👀 I’m interested in 🚀 coding with MakeCode and Micro:Bits to inspire kids and educators!
 - I 💜 to apply change & adoption strategies to help individuals, teams and organisations thrive in their digital workplaces! 
-- 💪 I work as a Microsoft365 trainer, consultant with a focus on adoption & change strategies, collaboration & communication solutions.
+- 💪 My purpose is to help others thrive in the digital world. Therefore I engage on suppporting digital workplaces as Microsoft365 trainer and consultant, as well as facilitating coding & robotic workshops for kids. 
 - 🌱 I’m currently learning a lot about mindfulness, agile, leadership, change & adoption and makecode!
-- 💞️ I’m looking to contribute to the MakeCode community!
+- 💞️ I’m looking forward to contribute to the Microsoft365, MakeCode and Agile community!
 
 <!---
 ameliahernandez/ameliahernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
