@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🚀 coding with MakeCode and Micro:Bits to inspire kids and educators!
 - I 💜 to apply change & adoption strategies to help individuals, teams and organisations thrive in their digital workplaces! 
 - 💪 I engage as facilitator for coding & robotic workshops for kids. 
-- 🌱 I’m currently learning a lot about mindfulness, agile, leadership, change & adoption and makecode!
+- 🌱 I’m currently learning a lot about mindfulness, agile, leadership, change & adoption, cloud SaaS services, and makecode!
 - 💞️ I’m looking forward to contribute to the Microsoft365, MakeCode and Agile community!
 
 <!---
